@@ -1,0 +1,19 @@
+{
+  "name": "randomstrings",
+  "version": "0.0.1",
+  "description": "A module for generating random strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuzuta22/randomstrings.git"
+  },
+  "author": "zuzu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuzuta22/randomstrings/issues"
+  },
+  "homepage": "https://github.com/zuzuta22/randomstrings#readme"
+}
