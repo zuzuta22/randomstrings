@@ -1,3 +1,3 @@
-var jsranger = require('./lib/randomstrings');
+var randomstrings = require('./lib/randomstrings');
 
 module.exports = randomstrings;
